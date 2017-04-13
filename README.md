@@ -5,6 +5,7 @@ KPFallingObjects displays falling effect of custom images on your UIView like fa
 ### Screenshot
 ![](https://github.com/KrishnaPatell/KPFallingObjects/blob/master/KPFallingObjects/Demo1.gif)
 ![](https://github.com/KrishnaPatell/KPFallingObjects/blob/master/KPFallingObjects/Demo2.gif)
+
 ![](https://github.com/KrishnaPatell/KPFallingObjects/blob/master/KPFallingObjects/Demo3.gif)
 ![](https://github.com/KrishnaPatell/KPFallingObjects/blob/master/KPFallingObjects/Demo4.gif)
 
