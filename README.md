@@ -2,7 +2,7 @@
 KPFallingObjects displays falling effect of custom images on your UIView like falling snow, numbers, alphabets etc...
 
 
-### Screenshot
+### Screenshots
 ![](https://github.com/KrishnaPatell/KPFallingObjects/blob/master/KPFallingObjects/Demo1.gif)
 ![](https://github.com/KrishnaPatell/KPFallingObjects/blob/master/KPFallingObjects/Demo2.gif)
 
@@ -42,7 +42,7 @@ There are two methods that starts and stops falling images.
 ```
 
 ## Requirements
-iOS 7.0 and later
+iOS 7.0+
 
 ## License
 MIT License
